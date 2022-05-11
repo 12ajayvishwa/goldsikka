@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062784335375",
+    "project_id": "gold-sikka",
+    "storage_bucket": "gold-sikka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062784335375:android:73352c8ccb0b43d218ed7a",
+        "android_client_info": {
+          "package_name": "com.example.goldsikka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062784335375-eh59aos1s9g9nb7r9n4o7925n4h7r1ir.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goldsikka",
+            "certificate_hash": "5e99181bb0b40c5c60fadc7acd53b32aec772b15"
+          }
+        },
+        {
+          "client_id": "1062784335375-rgjgsuegel22a0gsi7jmqtrm6r2cm0ts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN86TaMNeKjCYUVi9MO3oNq2k-z-0LhnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062784335375-rgjgsuegel22a0gsi7jmqtrm6r2cm0ts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
